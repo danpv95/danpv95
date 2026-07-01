@@ -2,8 +2,8 @@
 
 # Daniel Patiño Vargas
 
-**Software Developer Senior** · Backend Java / Spring · +5 años
-Arquitectura limpia (Hexagonal · DDD · SOLID) · APIs escalables · Microservicios · CI/CD
+**Senior Backend Software Engineer** · Java / Spring Boot · +5 años
+Microservicios · Event-Driven (Kafka/RabbitMQ) · Clean Architecture (Hexagonal · DDD) · CI/CD
 
 _Bilingüe ES / EN · abierto a oportunidades locales e internacionales_
 
@@ -18,11 +18,11 @@ _Bilingüe ES / EN · abierto a oportunidades locales e internacionales_
 
 <br>
 
-**Senior Software Developer** · Java / Spring backend · 5+ years.
-Clean architecture (Hexagonal · DDD · SOLID), scalable APIs, microservices, CI/CD and testing.
+**Senior Backend Software Engineer** · Java / Spring Boot · 5+ years.
+Microservices, event-driven systems (Kafka/RabbitMQ), clean architecture (Hexagonal · DDD), CI/CD and testing.
 Bilingual ES / EN · open to local and international opportunities.
 
-I design and build business backends from the API contract to production deployment, with a focus on maintainable code, real test coverage and architectures that hold up under load. Below: public repos, my own SaaS ecosystem (CHESTECH), stack and career metrics.
+I design and build business backends end to end, from the API contract to observable production. Below: public repos, my own SaaS ecosystem (CHESTECH), stack and career highlights.
 
 </details>
 
@@ -62,10 +62,10 @@ _Independent Spring Boot microservices for clients and accounts._
 
 | Producto / Product | Qué es / What it is | Stack |
 |---|---|---|
-| **Zifra** | Facturación electrónica DIAN (Colombia) | Next.js 16 · Drizzle · Supabase · Factus v2 |
+| **Zifra** | Facturación electrónica DIAN (Colombia) | Next.js · NestJS · Drizzle · Supabase · Factus v2 |
 | **Kyro** | PWA de turnos y finanzas para profesionales de salud | Next.js · PWA · Supabase |
 | **SIAGI** | Plataforma inmobiliaria multi-tenant | React · Spring Boot |
-| **chestech-web** | Landing corporativo bilingüe | Next.js 16 · i18n |
+| **chestech-web** | Landing corporativo bilingüe | Next.js · i18n |
 
 ---
 
@@ -75,6 +75,7 @@ _Independent Spring Boot microservices for clients and accounts._
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend** ·
@@ -100,16 +101,8 @@ _Independent Spring Boot microservices for clients and accounts._
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Testing** ·
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-4A9D4A?style=flat)
-![Jacoco](https://img.shields.io/badge/Jacoco-C74634?style=flat)
-
-**Observabilidad / Observability** ·
-![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
-![Opsgenie](https://img.shields.io/badge/Opsgenie-172B4D?style=flat&logo=atlassian&logoColor=white)
+**Testing** · JUnit 5 · Mockito · Jacoco
+**Observabilidad / Observability** · New Relic · Datadog · Kibana · Opsgenie
 
 ---
 
@@ -119,11 +112,11 @@ _Independent Spring Boot microservices for clients and accounts._
 
 | Métrica / Metric | Contexto / Context |
 |---|---|
-| +50K transacciones/día · +50K transactions/day | APIs de microservicios en producción |
+| Miles de transacciones diarias · thousands of daily transactions | APIs de microservicios en producción |
 | 99.9% uptime | Servicios backend con observabilidad |
 | +80% cobertura · coverage | Suites de tests (JUnit 5 · Mockito · Jacoco) |
-| −20% latencia · latency | Optimización de backend |
-| −30% despliegue · deploy time | Pipelines CI/CD |
+| Menor latencia · lower latency | Optimización de backend |
+| Despliegues más rápidos · faster deploys | Pipelines CI/CD |
 
 ---
 
@@ -138,11 +131,16 @@ _Independent Spring Boot microservices for clients and accounts._
 | Spring Boot Avanzado | 2022 |
 | Bootcamp Backend Java | 2022 |
 
----
+<!--
+Stats cards opcionales: el instance público de github-readme-stats devuelve 503 con frecuencia
+(imagen rota en el perfil). Para links estables, self-hostea tu propio instance en Vercel (gratis):
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+Luego descomenta y apunta la URL a tu dominio:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=danpv95&show_icons=true&theme=graywhite&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpv95&layout=compact&theme=graywhite&hide_border=true)
+![Stats](https://TU-INSTANCE.vercel.app/api?username=danpv95&show_icons=true&theme=graywhite&hide_border=true)
+![Top Langs](https://TU-INSTANCE.vercel.app/api/top-langs/?username=danpv95&layout=compact&theme=graywhite&hide_border=true)
 
 </div>
+-->
